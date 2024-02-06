@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Venkat-Kandala
 - 👀 I’m interested in ... Programming on .NET Technologies.
-- 🌱 I’m currently learning ... ASP.NET MVC
 - I am Autistic, and a Slow Learner.
 
 <!---
