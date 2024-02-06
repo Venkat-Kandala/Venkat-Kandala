@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Venkat-Kandala
-- 👀 I’m interested in ... Programming on .NET Technologies.
-- I am Autistic, and a Slow Learner.
+- 👋 Hi, I’m a .NET developer.
+- 👀 I Do Programming in .NET Technologies.
+
 
 <!---
 Venkat-Kandala/Venkat-Kandala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
